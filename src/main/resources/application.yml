@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: DOCKER-LEARN
+
+server:
+  port: 8088
