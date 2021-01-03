@@ -4,3 +4,9 @@ spring:
 
 server:
   port: 8088
+
+# 自定义启动模块的配置信息
+ysl:
+  name: yangshilei
+  age: 18
+  play: football
