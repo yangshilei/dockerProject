@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.docker</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>demodocker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demo</name>
     <description>Demo project for learn docker</description>
@@ -52,12 +52,6 @@
             <version>1.2.73</version>
         </dependency>
 
-        <!--ysl自定义starter-->
-        <dependency>
-            <groupId>com.example</groupId>
-            <artifactId>ysl-springboot-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
     <build>
